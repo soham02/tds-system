@@ -1,0 +1,2 @@
+# tds-system
+A ticket order system is a tablet or screen that displays digital order tickets 
